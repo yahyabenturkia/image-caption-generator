@@ -1,0 +1,3 @@
+sample2.jpg: a white and brown cat laying on a bed
+sample1.jpg: a man standing in a field with mountains in the background
+sample3.jpg: a baby sleeping on a crescent shaped pillow

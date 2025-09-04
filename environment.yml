@@ -1,0 +1,16 @@
+name: image-caption-generator
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - python=3.10
+  - pip
+  - numpy
+  - pillow
+  - tqdm
+  - matplotlib
+  - ipython
+  - pip:
+      - torch==2.2.0
+      - transformers==4.56.0
+      - safetensors==0.6.2
